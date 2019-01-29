@@ -1,1 +1,1 @@
-worker: Python discord.js
+worker: python discord.js
