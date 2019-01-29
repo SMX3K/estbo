@@ -1,1 +1,1 @@
-worker: node discord.js
+worker: python run.bat
